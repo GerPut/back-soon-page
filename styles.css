@@ -83,12 +83,12 @@
 }
 
 .text h2 {
-    font-size: 7em;
+    font-size: 10em;
     font-weight: 700;
     line-height: 1em;
     background: #fff;
     -webkit-background-clip: text;
-    -webkit-text-stroke: 0.001em rgb(36, 143, 207);
+    -webkit-text-stroke: 1px rgb(36, 143, 207);
 }
 
 
@@ -106,8 +106,9 @@
 }
 
 
+
 .ninja {
-    font-family: 'Ninja Attack', Arial, sans-serif;
+    font-family: 'Speed', Arial, sans-serif;
     font-weight:normal;
     font-style:normal;
 }
@@ -158,7 +159,7 @@
     }
 
     .text h2 {
-        font-size: 3.8em;
+        font-size: 5em;
     }
 
     .text h3 {
@@ -173,7 +174,7 @@
 @media(max-width: 425px){
    
     .text h2{
-        font-size:3em;
+        font-size:3.5em;
     }
 
     h3{
